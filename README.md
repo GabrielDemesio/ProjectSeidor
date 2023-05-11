@@ -5,7 +5,9 @@ Linguagens usadas: TypeScript,nodejs,express,sqlite.
 
 motorista
 /driver
+
 veículo
 /vehicle
+
 veículo em uso.
 /vehicleuse
